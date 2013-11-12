@@ -112,7 +112,7 @@ intended to bring The Work more in line with project requirements, usually fall
 under the agreed scope of The Work and, as such, do not require renegotiation of
 costs or this document.
 
-For any changes that do change of the scope of The Work, please see the _Change
+For any changes that do change the scope of The Work, please see the _Change
 in scope_ section of this document.
 
 Any bugs, which, unfortunately, cannot be guaranteed against, that are directly
