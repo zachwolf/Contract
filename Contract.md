@@ -83,26 +83,26 @@ licenses, and it is Your responsibility to ensure that any supplied materials
 (stock photography, font files, code, etc.) are correctly licensed.
 
 Once the entire outstanding balance of the project has been paid, all relevant
-copyright of The Work that can be assigned to you shall be.
+copyright of The Work that can be assigned to You shall be.
 
 There will likely be a few grey areas if The Work is a workshop or conference
-talk that you have paid for but not explicitly commissioned. For example; if I
-were to give a public talk at your conference, I would like to retain copyright
+talk that You have paid for but not explicitly commissioned. For example: if I
+were to give a public talk at Your conference, I would like to retain copyright
 of the slides etc. so as to share them with the wider community; if I am
-commissioned to give a workshop specifically for/to your business, you would
+commissioned to give a workshop specifically for/to Your business, You would
 retain the copyright. I like to think we can agree on the intricacies of these
 on a case-by-case basis.
 
 ## Disclosure
 
 I am more than happy to sign a Non-Disclosure Agreement (NDA) in order to work
-on your project.
+on Your project.
 
 I often like to write and tweet about the projects I am currently working on; if
 there is no NDA in place I shall assume that You authorise me to do this. Please
 explicitly state if this is not acceptable before signing this document.
 
-I shall explicitly seek your consent before open sourcing—or writing in any
+I shall explicitly seek Your consent before open sourcing—or writing in any
 detail about—any of the code or techniques employed in The Work.
 
 ## Alterations, amends and maintenance
