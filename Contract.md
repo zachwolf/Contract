@@ -86,7 +86,7 @@ Once the entire outstanding balance of the project has been paid, all relevant
 copyright of The Work that can be assigned to You shall be.
 
 There will likely be a few grey areas if The Work is a workshop or conference
-talk that You have paid for but not explicitly commissioned. For example; if I
+talk that You have paid for but not explicitly commissioned. For example: if I
 were to give a public talk at Your conference, I would like to retain copyright
 of the slides etc. so as to share them with the wider community; if I am
 commissioned to give a workshop specifically for/to Your business, You would
